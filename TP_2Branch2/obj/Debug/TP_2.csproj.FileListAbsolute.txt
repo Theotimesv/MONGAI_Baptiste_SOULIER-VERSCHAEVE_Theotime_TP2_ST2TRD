@@ -1,0 +1,17 @@
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\bin\Debug\TP_2.exe.config
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\bin\Debug\TP_2.exe
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\bin\Debug\TP_2.pdb
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.csprojAssemblyReference.cache
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\Help.g.cs
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\MainWindow.g.cs
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\App.g.cs
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2_MarkupCompile.cache
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2_MarkupCompile.lref
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\Help.baml
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\MainWindow.baml
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.g.resources
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.Properties.Resources.resources
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.csproj.GenerateResource.cache
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.csproj.CoreCompileInputs.cache
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.exe
+C:\Users\theot\OneDrive\Bureau\TP_2Branch2\obj\Debug\TP_2.pdb
