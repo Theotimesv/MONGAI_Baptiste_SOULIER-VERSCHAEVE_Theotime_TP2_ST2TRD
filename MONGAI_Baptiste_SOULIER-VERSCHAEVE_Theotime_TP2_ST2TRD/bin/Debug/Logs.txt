@@ -1,0 +1,297 @@
+[2021-12-17 15:39:25][Info] Main page start
+[2021-12-17 15:51:47][Info] Main page start
+[2021-12-17 15:52:12][Info] User started to decrypt Binary code
+[2021-12-17 15:52:12][Info] User started to decrypt Binary code
+[2021-12-17 16:01:16][Info] Main page start
+[2021-12-17 16:01:28][Info] User started to decrypt Binary code
+[2021-12-17 16:03:56][Info] Main page start
+[2021-12-17 16:04:20][Info] User started to decrypt Binary code
+[2021-12-17 16:04:48][Info] Main page start
+[2021-12-17 16:04:55][Info] User started to decrypt Binary code
+[2021-12-17 16:04:55][Info] User started to decrypt Binary code
+[2021-12-17 16:05:06][Info] Main page start
+[2021-12-17 16:05:30][Info] User started to decrypt Binary code
+[2021-12-17 16:05:30][Info] User started to decrypt Binary code
+[2021-12-17 16:05:43][Info] Main page start
+[2021-12-17 16:05:55][Info] User started to decrypt Binary code
+[2021-12-17 16:05:55][Info] User started to decrypt Binary code
+[2021-12-17 16:06:35][Info] Main page start
+[2021-12-17 16:06:59][Info] Main page start
+[2021-12-17 16:07:09][Info] User started to decrypt Binary code
+[2021-12-17 16:07:29][Info] Main page start
+[2021-12-17 16:07:38][Info] User started to decrypt Binary code
+[2021-12-17 16:07:52][Info] Main page start
+[2021-12-17 16:08:02][Info] User started to decrypt Binary code
+[2021-12-17 16:08:15][Info] Main page start
+[2021-12-17 16:08:23][Info] User started to decrypt Binary code
+[2021-12-17 16:08:39][Info] Main page start
+[2021-12-17 16:08:47][Info] User started to decrypt Binary code
+[2021-12-17 16:08:47][Info] User started to decrypt Binary code
+[2021-12-17 16:08:57][Info] Main page start
+[2021-12-17 16:09:05][Info] User started to decrypt Binary code
+[2021-12-17 16:09:16][Info] Main page start
+[2021-12-17 16:09:26][Info] User started to decrypt Binary code
+[2021-12-17 16:09:26][Info] User started to decrypt Binary code
+[2021-12-17 16:13:26][Info] Main page start
+[2021-12-17 16:13:56][Info] Main page start
+[2021-12-17 16:14:16][Info] Main page start
+[2021-12-17 16:14:20][Warn] User did not chose an encryption method
+[2021-12-17 16:15:35][Info] Main page start
+[2021-12-17 16:15:43][Warn] User did not chose an encryption method
+[2021-12-17 16:16:02][Info] Main page start
+[2021-12-17 16:16:37][Info] Main page start
+[2021-12-17 16:16:45][Warn] User did not chose an encryption method
+[2021-12-17 16:17:11][Info] Main page start
+[2021-12-17 16:17:13][Warn] User did not chose an encryption method
+[2021-12-17 16:21:40][Info] Main page start
+[2021-12-17 16:21:59][Info] User started to use Binary encryption
+[2021-12-17 16:21:59][Info] User started to use Binary encryption
+[2021-12-17 16:22:09][Info] User started to decrypt Binary code
+[2021-12-17 16:22:09][Info] User started to decrypt Binary code
+[2021-12-17 16:23:49][Info] Main page start
+[2021-12-17 16:24:05][Info] User started to use Vigene encryption
+[2021-12-17 16:24:14][Info] Main page start
+[2021-12-17 16:24:25][Info] User started to use Vigene encryption
+[2021-12-17 16:24:25][Info] Vigenere encryption done
+[2021-12-17 16:24:28][Info] User started to use Vigene encryption
+[2021-12-17 16:29:08][Info] Main page start
+[2021-12-17 16:29:23][Info] User started to use Vigene encryption
+[2021-12-17 16:29:23][Info] Vigenere encryption done
+[2021-12-17 16:29:32][Info] User started to use Vigene encryption
+[2021-12-17 16:29:32][Info] Vigenere encryption done
+[2021-12-17 16:29:41][Info] User started to use Vigene encryption
+[2021-12-17 16:29:41][Info] Vigenere encryption done
+[2021-12-17 16:29:42][Info] User started to use Vigene encryption
+[2021-12-17 16:29:42][Info] Vigenere encryption done
+[2021-12-17 16:29:45][Info] User started to use Vigene encryption
+[2021-12-17 16:29:45][Info] Vigenere encryption done
+[2021-12-17 16:29:50][Info] User started to use Vigene encryption
+[2021-12-17 16:29:50][Info] Vigenere encryption done
+[2021-12-17 16:29:55][Info] User started to use Vigene encryption
+[2021-12-17 16:29:55][Info] Vigenere encryption done
+[2021-12-17 16:29:58][Info] User started to use Vigene encryption
+[2021-12-17 16:29:58][Info] Vigenere encryption done
+[2021-12-17 16:43:52][Info] Main page start
+[2021-12-17 16:44:09][Info] User started to use Caesar encryption
+[2021-12-17 16:44:11][Info] Caesar encryption done
+[2021-12-17 16:44:14][Info] User started to use Caesar encryption
+[2021-12-17 16:44:17][Info] Caesar encryption done
+[2021-12-17 17:20:49][Info] Main page start
+[2021-12-17 17:21:03][Info] User started to use Caesar encryption
+[2021-12-17 17:21:03][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:21:07][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:21:14][Info] Caesar encryption done
+[2021-12-17 17:23:13][Info] Main page start
+[2021-12-17 17:23:25][Info] User started to use Caesar encryption
+[2021-12-17 17:23:25][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:23:27][Info] Caesar encryption done
+[2021-12-17 17:23:40][Info] User started to use Caesar encryption
+[2021-12-17 17:23:40][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:23:42][Info] Caesar encryption done
+[2021-12-17 17:23:45][Info] User started to use Caesar encryption
+[2021-12-17 17:23:45][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:23:47][Info] Caesar encryption done
+[2021-12-17 17:24:32][Info] User started to use Caesar encryption
+[2021-12-17 17:24:32][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:24:36][Info] Caesar encryption done
+[2021-12-17 17:24:37][Info] User started to use Caesar encryption
+[2021-12-17 17:24:37][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:24:38][Info] Caesar encryption done
+[2021-12-17 17:24:40][Info] User started to use Caesar encryption
+[2021-12-17 17:24:40][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:24:41][Info] Caesar encryption done
+[2021-12-17 17:24:44][Info] User started to use Caesar encryption
+[2021-12-17 17:24:44][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:24:46][Info] Caesar encryption done
+[2021-12-17 17:24:56][Info] User started to use Caesar encryption
+[2021-12-17 17:24:56][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:24:57][Info] Caesar encryption done
+[2021-12-17 17:28:05][Info] User started to use Vigenere encryption
+[2021-12-17 17:28:05][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:28:07][Info] Vigenere encryption done
+[2021-12-17 17:28:14][Info] User started to use Vigenere encryption
+[2021-12-17 17:28:14][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:28:16][Info] Vigenere encryption done
+[2021-12-17 17:29:00][Info] User started to use Vigenere encryption
+[2021-12-17 17:29:00][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:29:08][Info] Vigenere encryption done
+[2021-12-17 17:29:12][Info] User started to use Vigenere encryption
+[2021-12-17 17:29:12][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:29:14][Info] Vigenere encryption done
+[2021-12-17 17:29:21][Info] User started to use Vigenere encryption
+[2021-12-17 17:29:21][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:29:33][Info] Vigenere encryption done
+[2021-12-17 17:29:51][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:29:51][Info] Vigenere decryption done
+[2021-12-17 17:29:57][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:29:57][Info] Vigenere decryption done
+[2021-12-17 17:29:57][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:29:57][Info] Vigenere decryption done
+[2021-12-17 17:29:58][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:29:58][Info] Vigenere decryption done
+[2021-12-17 17:30:04][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:30:04][Info] Vigenere decryption done
+[2021-12-17 17:30:05][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:30:05][Info] Vigenere decryption done
+[2021-12-17 17:30:05][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:30:05][Info] Vigenere decryption done
+[2021-12-17 17:30:05][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 17:30:05][Info] Vigenere decryption done
+[2021-12-17 17:30:15][Info] User started to decrypt Caesar Cipher
+[2021-12-17 17:30:15][Info] Caesar decryption done
+[2021-12-17 17:30:15][Info] User started to use Caesar encryption
+[2021-12-17 17:30:15][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:30:16][Info] Ceasar encryption done
+[2021-12-17 17:30:19][Info] User started to decrypt Caesar Cipher
+[2021-12-17 17:30:19][Info] Caesar decryption done
+[2021-12-17 17:30:19][Info] User started to use Caesar encryption
+[2021-12-17 17:30:19][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:30:20][Info] Ceasar encryption done
+[2021-12-17 17:30:34][Info] User started to use Caesar encryption
+[2021-12-17 17:30:34][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:30:42][Info] User started to use Caesar encryption
+[2021-12-17 17:30:42][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:30:44][Info] Caesar encryption done
+[2021-12-17 17:30:49][Info] User started to use Caesar encryption
+[2021-12-17 17:30:49][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:32:56][Info] Main page start
+[2021-12-17 17:33:12][Info] User started to use Caesar encryption
+[2021-12-17 17:33:12][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:33:14][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:33:26][Info] User started to use Caesar encryption
+[2021-12-17 17:33:26][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:33:27][Info] Caesar encryption done
+[2021-12-17 17:33:32][Info] User started to use Caesar encryption
+[2021-12-17 17:33:32][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:33:34][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:33:36][Info] Caesar encryption done
+[2021-12-17 17:33:39][Info] User started to use Caesar encryption
+[2021-12-17 17:33:39][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:33:41][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:33:41][Info] Caesar encryption done
+[2021-12-17 17:33:47][Info] User started to use Caesar encryption
+[2021-12-17 17:33:47][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:33:48][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:34:00][Info] Main page start
+[2021-12-17 17:34:13][Info] User started to use Caesar encryption
+[2021-12-17 17:34:13][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:34:22][Info] Caesar encryption done
+[2021-12-17 17:34:30][Info] User started to use Caesar encryption
+[2021-12-17 17:34:30][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:34:31][Info] Caesar encryption done
+[2021-12-17 17:34:34][Info] User started to use Caesar encryption
+[2021-12-17 17:34:34][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:34:36][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:34:37][Info] Caesar encryption done
+[2021-12-17 17:34:43][Info] User started to use Caesar encryption
+[2021-12-17 17:34:43][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:34:44][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:34:55][Info] User started to use Caesar encryption
+[2021-12-17 17:34:55][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:34:56][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:35:01][Info] User started to use Caesar encryption
+[2021-12-17 17:35:01][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:35:03][Info] Caesar encryption done
+[2021-12-17 17:39:16][Info] Main page start
+[2021-12-17 17:39:27][Info] User started to use Caesar encryption
+[2021-12-17 17:39:27][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:39:31][Info] Caesar encryption done
+[2021-12-17 17:39:41][Info] User started to use Caesar encryption
+[2021-12-17 17:39:41][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:39:44][Info] Caesar encryption done
+[2021-12-17 17:40:26][Info] Main page start
+[2021-12-17 17:40:41][Info] User started to use Vigenere encryption
+[2021-12-17 17:40:41][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:40:45][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:40:50][Info] Vigenere encryption done
+[2021-12-17 17:40:54][Info] User started to use Vigenere encryption
+[2021-12-17 17:40:54][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:40:55][Info] Vigenere encryption done
+[2021-12-17 17:41:00][Info] User started to use Vigenere encryption
+[2021-12-17 17:41:00][Info] Vigenere encryption done
+[2021-12-17 17:41:04][Info] User started to use Vigenere encryption
+[2021-12-17 17:41:04][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:41:06][Info] Vigenere encryption done
+[2021-12-17 17:43:26][Info] User started to use Vigenere encryption
+[2021-12-17 17:43:26][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:43:28][Info] Vigenere encryption done
+[2021-12-17 17:47:57][Info] Main page start
+[2021-12-17 17:48:10][Info] User started to use Caesar encryption
+[2021-12-17 17:48:10][Warn] Input not correct in Caesar encryption
+[2021-12-17 17:48:12][Warn] Key not correct in Caesar encryption
+[2021-12-17 17:49:44][Info] Main page start
+[2021-12-17 17:49:57][Info] Main page start
+[2021-12-17 17:50:25][Info] User started to use Vigenere encryption
+[2021-12-17 17:50:25][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:50:55][Info] Main page start
+[2021-12-17 17:51:09][Info] User started to use Vigenere encryption
+[2021-12-17 17:51:09][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:51:10][Info] Vigenere encryption done
+[2021-12-17 17:51:16][Info] User started to use Vigenere encryption
+[2021-12-17 17:51:16][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:51:18][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:52:29][Info] Main page start
+[2021-12-17 17:52:48][Info] User started to use Vigenere encryption
+[2021-12-17 17:52:48][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:52:51][Info] Vigenere encryption done
+[2021-12-17 17:53:00][Info] User started to use Vigenere encryption
+[2021-12-17 17:53:00][Warn] Input not correct in Vigenere encryption
+[2021-12-17 17:53:01][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:55:20][Info] Main page start
+[2021-12-17 17:55:30][Info] User started to use Vigenere encryption
+[2021-12-17 17:55:30][Info] Vigenere encryption done
+[2021-12-17 17:55:33][Info] User started to use Vigenere encryption
+[2021-12-17 17:55:33][Warn] Key not correct in Vigenere encryption
+[2021-12-17 17:55:41][Info] User started to use Vigenere encryption
+[2021-12-17 17:55:41][Info] Vigenere encryption done
+[2021-12-17 17:55:50][Info] User started to use Vigenere encryption
+[2021-12-17 17:55:50][Warn] Key not correct in Vigenere encryption
+[2021-12-17 18:01:00][Info] Main page start
+[2021-12-17 18:01:04][Warn] User did not chose an encryption method
+[2021-12-17 18:01:06][Warn] User did not chose an encryption method
+[2021-12-17 18:01:09][Warn] User did not chose an encryption method
+[2021-12-17 18:02:35][Info] Main page start
+[2021-12-17 18:02:54][Info] User started to decrypt Binary code
+[2021-12-17 18:02:54][Info] User started to decrypt Binary code
+[2021-12-17 18:03:01][Info] User started to use Binary encryption
+[2021-12-17 18:03:01][Info] User started to use Binary encryption
+[2021-12-17 18:03:02][Info] User started to use Binary encryption
+[2021-12-17 18:03:02][Info] User started to use Binary encryption
+[2021-12-17 18:03:09][Info] User started to use Hexadecimal encryption
+[2021-12-17 18:03:09][Info] Hexadecimal encryption done
+[2021-12-17 18:03:13][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:13][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:18][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:18][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:21][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:21][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:22][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:22][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:22][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:22][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:24][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:24][Info] User started to decrypt Hexadecimal code
+[2021-12-17 18:03:36][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:03:36][Info] Vigenere decryption done
+[2021-12-17 18:03:39][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:03:39][Info] Vigenere decryption done
+[2021-12-17 18:03:44][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:03:44][Warn] Key not correct in Vigenere encryption
+[2021-12-17 18:03:49][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:03:49][Warn] Key not correct in Vigenere encryption
+[2021-12-17 18:03:57][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:03:57][Warn] Key not correct in Vigenere encryption
+[2021-12-17 18:04:38][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:04:38][Warn] Key not correct in Vigenere encryption
+[2021-12-17 18:04:48][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:04:48][Info] Vigenere decryption done
+[2021-12-17 18:04:48][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:04:48][Info] Vigenere decryption done
+[2021-12-17 18:04:48][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:04:48][Info] Vigenere decryption done
+[2021-12-17 18:04:50][Info] User started to decrypt Vigenere Cipher
+[2021-12-17 18:04:50][Info] Vigenere decryption done
+[2021-12-17 18:04:55][Info] User started to use Vigenere encryption
+[2021-12-17 18:04:55][Info] Vigenere encryption done
+[2021-12-17 18:07:15][Info] Main page start
+[2021-12-17 18:14:13][Info] Main page start
